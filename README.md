@@ -18,3 +18,7 @@ Instructions
 5. Run the commands in the script `slack-wordcloud.r` in your
    interactive session.
 6. View your beautiful word cloud!
+
+Inspirations
+------------
+[Gist explaining generating word clouds from slack](https://gist.github.com/michael-erasmus/eb0e30c4fba8ba5a5121)
