@@ -17,10 +17,6 @@ removeUsernames <- function(doc) {
     gsub("<@[0-9a-zA-Z]*>", "", doc)
 }
 
-removeUsernames <- function(doc) {
-    gsub("<@[0-9a-zA-Z]*>", "", doc)
-}
-
 removeCharacters <- function (doc, characters)  {
     pattern <- paste(characters, collapse = "|")
     gsub(pattern, "", doc, perl = TRUE)
