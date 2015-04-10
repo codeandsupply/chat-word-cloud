@@ -5,6 +5,7 @@ Word cloud of the Code &amp; Supply chat
 
 This script needs to be run through an interactive R session to work
 properly. To generate the word cloud, follow the steps below.
+![](http://i.imgur.com/QKn6QVj.png)
 
 Instructions
 ------------
